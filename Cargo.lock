@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rust-practice"
+name = "expr-eval"
 version = "0.1.0"
